@@ -7,8 +7,9 @@ Link to clean file [https://drive.google.com/file/d/13HSMWznImd6PQ67UtSMqlOVXSdq
 - clean up code
 - extract only important attributes from weather, not all
 
-# For descriptive analysis:
-## Station-level insight
+## For descriptive analysis:
+- more visualization and explain what it is for
+### Station-level insight
 - heatmap per month / season: how many bikes get rented from every station?
 
 
