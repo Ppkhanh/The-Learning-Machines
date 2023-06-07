@@ -1,5 +1,5 @@
 # The-Learning-Machines
-Link to clean file [https://drive.google.com/file/d/13HSMWznImd6PQ67UtSMqlOVXSdqrNJCu/view?usp=sharing](https://www.dropbox.com/s/hc7a09qrkxfhmq2/idle_time_calculated?dl=0)
+Link to clean file: https://www.dropbox.com/scl/fo/xl8o83l96rcpiwskburvz/h?dl=0&rlkey=7ik0lggf6sbz404tvk2h5tejs
 ## Cleaning and preperation:
 - extract the hours of the weather data and the data with idle time
 - merge these 2 datasets
